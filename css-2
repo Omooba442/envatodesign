@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Mrs Saint Delafield';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mrssaintdelafield/v13/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QKknKg.ttf) format('truetype');
+}
